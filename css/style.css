@@ -228,3 +228,321 @@ body {
   transition: all 1s ease-out;
 }
 
+.dev__container {
+  margin-top: 82px;
+  margin-left: 30px;
+}
+
+.dev__title--box {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1500px;
+}
+
+.dev__title {
+  max-width: 731px;
+  font-family: "Arimo", sans-serif;
+  font-size: 58px;
+  font-weight: 400;
+  color: #2468FF;
+}
+
+.dev__title--second {
+  font-size: 58px;
+  font-family: "Arimo", sans-serif;
+  font-weight: 400;
+  color: #C6FF00;
+}
+
+.dev__title--second--box {
+  padding-top: 40px;
+}
+
+.dev__text--block {
+  margin-top: 63px;
+  max-width: 527px;
+}
+
+.dev__text {
+  font-size: 20px;
+  font-family: "Space Grotesk", sans-serif;
+  color: #2468FF;
+  opacity: 50%;
+  margin-bottom: 27px;
+}
+
+.verification__container {
+  margin-top: 62px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.verif__img {
+  margin-right: 15px;
+}
+
+.benefits__text {
+  margin-right: 90px;
+  color: #121212;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 20px;
+}
+
+.strategy__container {
+  margin-top: 88px;
+  margin-bottom: 197px;
+}
+
+.strategy__title--subtitle {
+  max-width: 813px;
+  margin: 0 auto;
+  text-align: center;
+  justify-content: center;
+}
+
+.strategy__title {
+  font-family:  "Arimo", sans-serif;
+  font-size: 58px;
+  margin-bottom: 33px;
+  font-weight: 400;
+}
+
+.strategy__subtitle {
+  margin-left: auto;
+  margin-right: auto ;
+  max-width: 558px;
+  font-size: 20px;
+  color: #5E5E5E;
+  font-family: "Space Grotesk", sans-serif;
+}
+
+.strategy__road {
+  margin-top: 70px;
+  display: flex;
+  max-width: 1220px;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.strategy__elements {
+  background-color: #FAFAFA;
+  max-width: 393px;
+  min-height: 345px;
+  position: relative;
+}
+
+.strategy__box {
+  padding: 49px 164px 171px 30px;
+}
+
+.strategy__box--title {
+  font-family: "Arimo", sans-serif;
+  font-size: 33px;
+  font-weight: 400;
+  margin-bottom: 16px;
+}
+
+.geometry {
+  position: absolute;
+  bottom: 64px;
+  left: 215px;
+}
+
+.strategy__box--text {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 18px;
+  color: #5E5E5E;
+}
+
+
+.blockquote__block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dev__opinion {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 34px;
+  margin-bottom: 65px;
+  line-height: 38px;
+}
+
+.blockquote__text {
+  flex-basis: 694px;
+  margin-left: 70px;
+}
+
+
+
+.author {
+  display: block;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  color: #0B0B0B;
+  margin-bottom: 5px;
+}
+
+.author__post {
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #414141;
+}
+
+.company__talents--inner {
+  margin-top: 197px;
+}
+
+.company__titles {
+  max-width: 617px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.company__title {
+  font-family: "Arimo", sans-serif;
+  font-size: 58px;
+  font-weight: 400;
+
+}
+
+.vector__wave {
+  vertical-align: middle;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.second__company--title,
+span {
+  font-family: "Arimo", sans-serif;
+  font-size: 58px;
+  font-weight: 400;
+}
+
+.second__company--title span {
+  color: #2468FF;
+  margin-right: 38px;
+}
+
+.company__subtitle--box {
+  max-width: 615px;
+  margin: 0 auto;
+}
+
+.company__subtitle {
+  text-align: center;
+  margin-top: 33px;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 20px;
+  line-height: 27px;
+  color: #5E5E5E;
+}
+
+.company__talents--blocks {
+  max-width: 1220px;
+  
+  margin-top: 60px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: auto;
+  margin-left: auto;
+  gap: 30px;
+}
+
+
+.company__spells {
+  background-color: #f5f5f5;
+  width: 595px;
+  position: relative;
+}
+
+.spells__title--box {
+  padding: 59px 184px 277px 65px ;
+}
+
+.spells__title {
+  font-family: "Arimo", sans-serif;
+  font-weight: 400;
+  font-size: 37px;
+  color: #121212;
+}
+
+.spells__buff--title {
+  max-width: 223px;
+}
+
+.spells__buff--paragraph {
+  max-width: 243px;
+}
+
+/*.spells__debuff {
+  max-width: 346px;
+}*/
+
+.spells__paragraph {
+  margin-top: 19px;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 21px;
+  line-height: 27px;
+  color: #5E5E5E;
+}
+
+.spells__img {
+  position: absolute;
+  margin-top: 109px;
+  margin-left: 236px
+}
+
+.cursor-vector {
+  position: absolute;
+  margin-top: 236px;
+  margin-left: 470px;
+}
+
+.tools {
+  max-width: 697px;
+  margin: 115px auto 92px auto
+}
+
+.tools__title {
+  font-family: "Arimo", sans-serif;
+  font-size: 58px;
+  text-align: center;
+  font-weight: 400;
+  color: #2468FF;
+}
+
+.tools__bars {
+
+}
+
+.tools__flex {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 101px;
+}
+
+.specialization {
+  text-align: center;
+  min-width: 187px;
+  padding: 13px 12px 15px 11px;
+  background-color: #191919;
+  border-radius: 500px;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 18px;
+  color: #fff;
+}
+
+.bg__tools {
+  /*margin-right: auto;
+  margin-left: auto;*/
+}
+.bg__img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+} 

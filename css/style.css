@@ -516,10 +516,6 @@ span {
   color: #2468FF;
 }
 
-.tools__bars {
-
-}
-
 .tools__flex {
   display: flex;
   justify-content: space-evenly;
@@ -537,12 +533,116 @@ span {
   color: #fff;
 }
 
-.bg__tools {
-  /*margin-right: auto;
-  margin-left: auto;*/
-}
 .bg__img {
   display: block;
   margin-right: auto;
   margin-left: auto;
 } 
+
+.blockquote-space {
+  margin-top: 197px;
+}
+
+.select__work {
+  margin-top: 47px;
+}
+
+.select__work--inner {
+  background-color: #f5f5f5;
+}
+
+.select__work--top {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 30px;
+  margin-right: 32px;
+}
+
+.select__work--title {
+  max-width: 458px;
+  padding-top: 47px;
+  margin-bottom: 63px;
+  font-family: "Arimo", sans-serif;
+  font-size: 58px;
+  font-weight: 400;
+  line-height: 64px;
+  color: #121212;
+}
+
+.select__work--slider {
+  display: flex;
+  margin-left: 30px;
+  overflow: hidden;
+  padding-bottom: 100px;
+}
+
+.select__slider--img {
+  margin-right: 100px;
+}
+
+.growmodo__services {
+  margin-top: 97px;
+  margin-bottom: 101px;
+}
+
+.growmodo__title--subtitle {
+  max-width: 823px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.growmodo__title {
+  font-family: "Arimo", sans-serif;
+  font-size: 58px;
+  font-weight: 400;
+  color: #121212;
+  margin-bottom: 33px;
+}
+
+.growmodo__subtitle {
+  max-width: 437px;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  margin-right: auto;
+  margin-left: auto;
+  color: #5E5E5E;
+}
+
+.growmodo__services--flex {
+  width: 1330px;
+  margin-top: 101px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: auto;
+  margin-left: auto;
+  justify-content: center;
+}
+
+.growmodo__services--flex
+.growmodo__card:nth-child(3n) {
+  margin-right: 0;
+}
+
+.growmodo__card {
+  max-width: 366px;
+  margin-right: 76px;
+  margin-bottom: 100px;
+}
+
+.service__title {
+  margin-bottom: 17px;
+  font-family: "Arimo", sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  color: #121212;
+}
+
+.service__text {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26px;
+  color: #5E5E5E;
+}

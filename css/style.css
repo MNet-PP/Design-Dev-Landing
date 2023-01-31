@@ -646,3 +646,87 @@ span {
   line-height: 26px;
   color: #5E5E5E;
 }
+
+
+.choose__path {
+  margin-top: 151px;
+  width: 1220px;
+  background-color: #2468FF;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+}
+
+.choose__path--inner {
+  padding-top: 80px;
+  padding-bottom: 87px;
+}
+
+.choose__title--subtitle {
+  text-align: center;
+}
+
+.devs__img {
+  margin-bottom: 27px;
+}
+
+.choose__title {
+  max-width: 804px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 33px;
+  font-family: "Arimo", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  color: #fff;
+}
+
+.choose__subtitle {
+  max-width: 497px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  color: #EBEAEA;
+}
+
+.choose__buttons {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.choose__button {
+  width: 320px;
+  margin-right: 20px;
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  background-color: #121212;
+  padding: 12px 57px;
+  color: #fff;
+  border-radius: 5px;
+  transition: all 500ms ease; 
+}
+
+.choose__button:hover {
+  background-color: #fff;
+  color: black;
+  transition: all 500ms ease; 
+}
+
+.choose__buttons 
+.choose__button:last-child {
+  margin-right: 0;
+  background-color: #fff;
+  color: #121212;
+  border: 2px solid #121212;
+}
+
+.choose__buttons 
+.choose__button:last-child:hover {
+  background-color: black;
+  color: whitesmoke;
+  border: 2px solid whitesmoke;
+  transition: all 500ms ease; 
+}

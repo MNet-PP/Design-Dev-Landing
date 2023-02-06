@@ -835,6 +835,11 @@ span {
   margin-right: 44px;
 }
 
+.copyright__link:last-child {
+  position: relative; 
+  top: 8px;
+}
+
 .footer__rectangle {
   margin-left: 18.98px;
   margin-right: 21.02px;
